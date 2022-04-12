@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab03_2_3</string>
+    <string name="tv_name">tv_name</string>
+    <string name="add_contact">Thêm liên hệ</string>
+    <string name="username">Tên</string>
+    <string name="phone">Sđt</string>
+    <string name="title">title</string>
+</resources>
